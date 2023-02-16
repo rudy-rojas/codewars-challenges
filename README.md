@@ -17,3 +17,14 @@
  <i>The limit is only the imagination.</i>
  </p>
 </div>
+<br>
+
+### Depencencies
+```shell
+% npm install jest
+```
+
+### Syntax for testing
+```shell
+% npm test NameProblem.test.js
+```

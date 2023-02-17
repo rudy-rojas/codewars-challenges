@@ -1,4 +1,4 @@
-## Problem: ![5 kyu](https://github.com/rudy-rojas/codewars-challenges/tree/main/images/kyu/5.svg) Greed is Good
+## Problem: ![5 kyu](https://github.com/rudy-rojas/codewars-challenges/blob/main/images/kyu/5.svg) Greed is Good
 
 ### Description:
 
@@ -32,10 +32,10 @@ In some languages, it is possible to mutate the input to the function. This is s
   <summary>URL's</summary>
     <ol>
       <li>
-        <a target="_blank" href="https://www.codewars.com/kata/5270d0d18625160ada0000e4/train/javascript">Problem statement</a>
+        <a href="https://www.codewars.com/kata/5270d0d18625160ada0000e4/train/javascript">Problem statement</a>
       </li>
       <li>
-        <a target="_blank" href="https://www.codewars.com/kata/5270d0d18625160ada0000e4/solutions">Other Solutions</a>
+        <a href="https://www.codewars.com/kata/5270d0d18625160ada0000e4/solutions">Other Solutions</a>
       </li>
     </ol>
 </details>

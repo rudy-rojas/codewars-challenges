@@ -1,4 +1,4 @@
-## Problem: ![6 kyu](https://github.com/rudy-rojas/codewars-challenges/tree/main/images/kyu/6.svg) Bit Counting
+## Problem: ![6 kyu](https://github.com/rudy-rojas/codewars-challenges/blob/main/images/kyu/6.svg) Bit Counting
 
 ### Description:
 
@@ -15,10 +15,10 @@ The binary representation of `1234` is `10011010010`, so the function should ret
   <summary>URL's</summary>
   <ol>
     <li>
-      <a target="_blank" href="https://www.codewars.com/kata/526571aae218b8ee490006f4/train/javascript">Problem statement</a>
+      <a href="https://www.codewars.com/kata/526571aae218b8ee490006f4/train/javascript">Problem statement</a>
       </li>
     <li>
-      <a target="_blank" href="https://www.codewars.com/kata/526571aae218b8ee490006f4/solutions">Other Solutions</a>
+      <a href="https://www.codewars.com/kata/526571aae218b8ee490006f4/solutions">Other Solutions</a>
     </li>
   </ol>
 </details>

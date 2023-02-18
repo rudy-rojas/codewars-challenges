@@ -1,6 +1,6 @@
 <h2>
   <picture>
-  <img alt="<6 kyu>" src="https://github.com/rudy-rojas/codewars-challenges/blob/main/images/kyu/6.svg?raw=true" width="45"/>
+  <img alt="<6 kyu>" src="https://github.com/rudy-rojas/codewars-challenges/blob/main/images/kyu/6.svg" width="45"/>
   </picture> Challenge: Does my number look big in this?
 </h2>
 

@@ -1,4 +1,8 @@
-## Problem: ![6 kyu](https://github.com/rudy-rojas/codewars-challenges/blob/main/images/kyu/6.svg) Bit Counting
+<h2>
+  <picture>
+  <img alt="<6 kyu>" src="https://github.com/rudy-rojas/codewars-challenges/blob/main/images/kyu/6.svg?raw=true" width="45"/>
+  </picture> Challenge: Bit Counting
+</h2>
 
 ### Description:
 

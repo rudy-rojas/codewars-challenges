@@ -1,4 +1,8 @@
-## Problem: ![5 kyu](https://github.com/rudy-rojas/codewars-challenges/blob/main/images/kyu/5.svg) Greed is Good
+<h2>
+  <picture>
+  <img alt="<5 kyu>" src="https://github.com/rudy-rojas/codewars-challenges/blob/main/images/kyu/5.svg?raw=true" width="45" />
+  </picture> Challenge: Greed is Good
+</h2>
 
 ### Description:
 

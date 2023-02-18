@@ -3,7 +3,7 @@ const score = require('./GreedIsGood.js');
 const target = (input, result) => `[${input}] should be ${result}`;
 const testing = (input, result) => {
   it(target(input, result), () => {
-    expect(score(input, result));
+    expect(score(input)).toEqual(result);
   });
 };
 describe(`Calculating score Test`, () => {

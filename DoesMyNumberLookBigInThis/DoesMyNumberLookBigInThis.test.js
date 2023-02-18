@@ -3,7 +3,7 @@ const target = (input, result) => `${input} should be ${result}`
 
 const testing = (input, result) => {
   it(target(input, result), ()=>{
-    expect(narcissistic(input, result));
+    expect(narcissistic(input)).toEqual(result);
   })
 }
 describe(`Narcissictic Function`, ()=> {

@@ -9,16 +9,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/rudy-rojas/codewars-challenges">
+    <picture>
     <img src="images/logo-codewars.svg" alt="Logo" width="80" height="80">
-  </a>
-
+    </picture>
   <h2 align="center">CODEWARS CHALLENGES</h2>
 
   <p align="center">
     Resolution of programing challenges with JavaScript.
     <br />
-    To register and have fun <a href="https://www.codewars.com/r/dL5eZw" target="_blank">Click here »</a>.
+    To register and have fun <a href="https://www.codewars.com/r/dL5eZw">Click here »</a>.
     <br /><br />
 <strong>Recomendation:</strong> Try to solve the exercises without looking at any solution first.
 <br /><br />
@@ -28,11 +27,13 @@
 <br>
 
 ### Depencencies
+
 ```shell
 % npm install jest
 ```
 
 ### Syntax for testing
+
 ```shell
 % npm test NameProblem.test.js
 ```

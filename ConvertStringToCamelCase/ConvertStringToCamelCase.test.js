@@ -5,7 +5,7 @@ const target = (input, result) =>
 
 const testing = (input, result) => {
   it(target(input, result), () => {
-    expect(toCamelCase(input, result));
+    expect(toCamelCase(input)).toEqual(result);
   });
 };
 

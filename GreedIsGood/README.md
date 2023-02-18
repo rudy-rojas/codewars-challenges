@@ -1,6 +1,6 @@
 <h2>
   <picture>
-  <img alt="<5 kyu>" src="https://github.com/rudy-rojas/codewars-challenges/blob/main/images/kyu/5.svg" width="45" />
+  <img alt="[5 kyu]" src="https://github.com/rudy-rojas/codewars-challenges/blob/main/images/kyu/5.svg" width="50" />
   </picture> Challenge: Greed is Good
 </h2>
 

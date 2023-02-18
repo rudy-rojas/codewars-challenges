@@ -1,6 +1,6 @@
 <h2>
   <picture>
-  <img alt="<5 kyu>" src="https://github.com/rudy-rojas/codewars-challenges/blob/main/images/kyu/5.svg?raw=true" width="45" />
+  <img alt="[5 kyu]" src="https://github.com/rudy-rojas/codewars-challenges/blob/main/images/kyu/5.svg" width="50" />
   </picture> Challenge: Rot13
 </h2>
 
@@ -12,7 +12,13 @@ Create a function that takes a string and returns the string ciphered with Rot13
 
 ### Example:
 
-`"test"` = `"grfg"`
+| TEXT               | CYPHER             |
+| ------------------ | ------------------ |
+| `test`             | `grfg`             |
+| `$_OQ'C%x97A[`     | `$_BD'P%k97N[`     |
+| `0]uW"`            | `0]hJ`             |
+| `K#$i~5^^NN6btf]$` | `X#$v~5^^AA6ogs]$` |
+| `I4HWxH-qv:"V^6R(` | `V4UJkU-di:"I^6E(` |
 
 <br /><br />
 

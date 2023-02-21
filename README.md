@@ -10,7 +10,7 @@
 <br />
 <div align="center">
     <picture>
-    <img src="images/logo-codewars.svg" alt="Logo" width="80" height="80">
+    <img src="https://github.com/rudy-rojas/codewars-challenges/blob/main/images/logo-codewars.svg?raw=true" alt="codewars" width="80" height="80">
     </picture>
   <h2 align="center">CODEWARS CHALLENGES</h2>
 

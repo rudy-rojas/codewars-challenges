@@ -1,6 +1,6 @@
 const solution = require('./RangeExtraction.js');
 
-const target = (input, result) => `[${input}] should be ${result}`;
+const target = (input, result) => `[${input}] should be "${result}"`;
 const testing = (input, result) => {
   it(target(input, result), () => {
     expect(solution(input)).toEqual(result);

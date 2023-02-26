@@ -14,6 +14,10 @@
     </picture>
   <h2 align="center">CODEWARS CHALLENGES</h2>
 
+ <picture>
+    <img src="https://www.codewars.com/users/rudy-rojas/badges/large" alt="codewars" >
+    </picture>
+<br/><br/><br/>
   <p align="center">
     Resolution of programing challenges with JavaScript.
     <br />
@@ -37,3 +41,17 @@
 ```shell
 % npm test NameProblem.test.js
 ```
+
+
+<!-- ### Challenges by categories
+<details>
+  <summary> 6 kyu </summary>
+    <ol>
+      <li>
+        <a href="https://www.codewars.com/kata/513e08acc600c94f01000001/train/javascript">Problem statement</a>
+      </li>
+      <li>
+        <a href="https://www.codewars.com/kata/513e08acc600c94f01000001/solutions">Other Solutions</a>
+      </li>
+    </ol>
+</details> -->

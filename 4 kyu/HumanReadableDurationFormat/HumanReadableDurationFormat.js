@@ -54,4 +54,4 @@ const formatDuration = (seconds) => {
   return answer;
 };
 
-console.log(formatDuration(31536000*0+86400*0+3600*0+60*0+1))
+module.exports = formatDuration;

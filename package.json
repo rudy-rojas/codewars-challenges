@@ -9,6 +9,6 @@
   "author": "Rudy Rojas <rudy.rs1@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "jest": "^29.4.3"
+    "jest": "^29.5.0"
   }
 }

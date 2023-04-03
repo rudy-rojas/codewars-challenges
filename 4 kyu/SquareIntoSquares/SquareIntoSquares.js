@@ -56,4 +56,5 @@ const decompose = (num) => {
   return find(num, possibleAnswers);
 };
 
-console.log(decompose(50));
+// console.log(decompose(50));
+module.exports = decompose;
